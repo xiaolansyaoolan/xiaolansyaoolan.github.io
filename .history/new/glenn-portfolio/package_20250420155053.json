@@ -1,0 +1,27 @@
+{
+  "name": "glenn-portfolio",
+  "version": "1.0.0",
+  "description": "Glenn Catteeuw's Portfolio Website",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^3.2.36",
+    "vue-router": "^4.0.0",
+    "vuex": "^4.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^5.0.8"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
